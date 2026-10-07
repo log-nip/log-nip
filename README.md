@@ -1,6 +1,4 @@
 # howdy
 
-- 🔭 I’m currently working on Summer 2024 plans.
-- 🌱 I’m currently learning Programming II, Calc I, Chekhov, and Pilates.
-- 💬 Ask me about student veterans.
-- 📫 How to reach me: LinkedIn
+- 🌱 I’m currently studying Urban Planning at University of Wisconsin-Madison.
+- 💬 Talk to me about cities, the outdoors, music, or movies.
